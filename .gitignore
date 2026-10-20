@@ -1,0 +1,5 @@
+orders.csv
+daily_sales.csv
+receipts/
+__pycache__/
+*.pyc
